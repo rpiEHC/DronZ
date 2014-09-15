@@ -1,0 +1,9 @@
+Basic dynamics and quadrotor model: pages 2-3
+  - Note the definition of the rotation matrix. The math looks really complex at first. Think of it as a black box 
+    that makes handling reference frames.
+Body forces and torques: equation 8
+Attitude, position, velocity estimation: pages 6-9
+  * Lots of math
+Attitude and trajectory control: pages 10-11
+  * Will add more on this later
+
